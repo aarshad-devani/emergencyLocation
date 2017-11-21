@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Emergency Location",
+    "slug": "emergency-location",
+    "sdkVersion": "22.0.0",
+    "privacy":"unlisted",
+    "android":{
+      "package": "com.aarshad.emergencyLocation",
+      "permissions": ["ACCESS_COARSE_LOCATION","ACCESS_FINE_LOCATION","VIBRATE"]
+    }
+
+    // AIzaSyBsYJMZiD4ni79x6rOHj7EcsV_puCAQZIw
+    
+  }
+}
