@@ -52,12 +52,12 @@ return(
                 </View>
             </TouchableOpacity>
             <View style={{flex:1, backgroundColor:'transparent', alignItems:'flex-end'}}>
-                <TouchableOpacity 
+                {/* <TouchableOpacity 
                     style={[{ marginHorizontal: 15 }]}
                     onPress={props.showSettings.bind(this)}
                 >
                 <MaterialIcons name="close" size={32} color="red" />
-                </TouchableOpacity>
+                </TouchableOpacity> */}
             </View>
         </View>
     </View>
